@@ -1,0 +1,2 @@
+1. Field not available on Oranization in the CRM User form
+2. View missing in the Region entity. (Possible different version online and on-premise) Can update view in Customization. 

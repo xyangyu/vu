@@ -1,0 +1,40 @@
+Does Account table has foreign key to case table or vice versa? 
+
+what if you use the column and try to delete the column?
+
+Is the Share share to or able to share?
+
+security role, if I were to add new function in CRM, How do I start? 
+
+what if you create role in parent and delete it after, what happen to child?
+
+XRM toolbox
+
+is it a design decision to modify current entity or a new entity?
+
+communication and collaboration selection why microsoft made it for us? customization opportunity there?
+
+why customer is so special and it is a choise of data type? another is activity?
+
+Prototype ? bilingual?
+
+Business rules such as two date fields one is greater than the other.  cascading values, selecting default value based on other selections. 
+create a letter.  create something and send a email or upload the emmail to a SharePoint document set. 
+
+show one to many on the same screen
+
+
+UI design master details/ master and releated records
+
+PowerApp, why the reason behind. do we just use CRM as data source?
+
+1 to many why no id is asked? default to the id fileds?
+
+Extrem CRY conference?
+
+business rules
+
+
+
+
+

@@ -1,0 +1,12 @@
+Source Files Location: \\T2APPDC0127\Software (DEV_DOM)
+Instructions:
+Login to your PDE as 'DEV_DOM\TEECRMSETUP'
+Copy the Installer packages to a Local Temp Folder(s)
+Run all Updates Elevated (Right click - 'Run as Administrator')
+
+CU 21 Update Package for MS SQL Server 2017  
+Restart  
+CU 0.18 Update for Dynamics 365 Server  
+Restart  
+CU 0.18 Update for Dynamics 365 SRS  
+Restart 
